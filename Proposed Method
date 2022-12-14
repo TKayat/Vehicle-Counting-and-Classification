@@ -1,6 +1,6 @@
 The steps that are involved in the process of vehicle detection and counting are given as follows.  
 
-#Input Video 
+**Input Video** 
 In this type of processing typically needs input data provided by the computer vision system and acting as a vision sensor and providing a high-level information. Then the video frames which are captured by the surveillance cameras are given as an input video for vehicle detection and counting. 
 
 #Background Registration 
