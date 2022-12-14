@@ -26,7 +26,7 @@ Image subtraction or pixel subtraction are process where the digital numeric val
  
  ![image](https://user-images.githubusercontent.com/105040357/207526521-b3eaaf0a-c512-410a-af25-93c8d259417e.png)
  
-Fig 1: Subtraction of image 
+*Fig 1: Subtraction of image* 
 
 **1.4 Foreground Detection -**
 
@@ -45,7 +45,7 @@ Vehicle detection is a technique used in computer vision and image processing. M
 
 ![image](https://user-images.githubusercontent.com/105040357/207526601-53bfe082-51e5-4e96-95c6-39ca662538d8.png)
 
-Fig 3: Detection of vehicles 
+*Fig 3: Detection of vehicles *
  
 **1.7 Vehicle Counting -**
 
