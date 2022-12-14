@@ -32,7 +32,9 @@ Image subtraction or pixel subtraction are process where the digital numeric val
 
 Foreground detection is one of the major tasks in the field of computer vision and image processing whose aim is to detect changes in image sequences. Background subtraction is any technique which allows an image's foreground to be extracted for further processing (object recognition etc.). Foreground detection separates foreground from background based on these changes taking place in the fore ground. It is a set of techniques that typically analyse video sequences recorded in real time with a stationary camera. 
  
- ![image](https://user-images.githubusercontent.com/105040357/207526389-d8371c68-e473-43eb-8bdd-d231711c60fd.png)
+ ![image](https://user-images.githubusercontent.com/105040357/207527581-866f79b8-8a86-472f-a20c-6a4f47d54212.png)
+
+*Fig 2: Flowchart*
  
 **1.5 Image Segmentation -**
 
